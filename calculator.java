@@ -55,6 +55,7 @@ public class calculator {
     }
 
     input.close();
+    System.out.println("helloooo");
   }
 
     }
